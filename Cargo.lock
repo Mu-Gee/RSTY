@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "trust"
+name = "rsty"
 version = "0.1.0"
